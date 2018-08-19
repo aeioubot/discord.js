@@ -1,6 +1,6 @@
 {
   "name": "discord.js",
-  "version": "11.4.0",
+  "version": "11.4.1",
   "description": "A powerful library for interacting with the Discord API",
   "main": "./src/index",
   "types": "./typings/index.d.ts",
@@ -33,7 +33,7 @@
   "runkitExampleFilename": "./docs/examples/ping.js",
   "dependencies": {
     "long": "^4.0.0",
-    "prism-media": "^0.0.2",
+    "prism-media": "^0.0.3",
     "snekfetch": "^3.6.4",
     "tweetnacl": "^1.0.0",
     "ws": "^4.0.0"
